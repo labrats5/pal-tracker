@@ -29,5 +29,3 @@ jobs:
       path: build-output/pal-tracker.jar
       environment_variables:
         WELCOME_MESSAGE: "Hello from Concourse"
-
-

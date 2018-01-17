@@ -7,6 +7,9 @@ image_resource:
     tag: '8-jdk'
 
 inputs:
+  - name: pal-tracker
+
+outputs:
   - name: build-output
 
 run:
