@@ -1,7 +1,7 @@
 cf-api-url: api.system.cumuluslabs.io
-cf-username: Maxwell.Corbin@cognizant.com
+cf-username: maxwell.corbin@cognizant.com
 cf-password: f61da762
-cf-org: maxwell-corbin
+cf-org: mcorbin-PAL-JAN16
 github-repository: git@github.com:labrats5/pal-tracker.git
 github-private-key: |
   -----BEGIN RSA PRIVATE KEY-----
