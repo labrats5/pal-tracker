@@ -7,3 +7,6 @@ github-private-key: |
   -----BEGIN RSA PRIVATE KEY-----
   lalalalalalalalalalalalaallalalalalala
   -----END RSA PRIVATE KEY-----
+aws-access-key-id: AKIAIH6YKUOPOCYOVS5Q
+aws-secret-access-key: 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
+aws-bucket: cf-65621ed3-8e2a-4a62-9d2c-b30433bcca73
