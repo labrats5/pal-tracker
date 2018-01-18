@@ -5,7 +5,7 @@ cf-org: mcorbin-PAL-JAN16
 github-repository: git@github.com:labrats5/pal-tracker.git
 github-private-key: |
   -----BEGIN RSA PRIVATE KEY-----
-  lalalalalalalalalalalalaallalalalalala
+  lalalalalalalalalalalalaallalalalalalala
   -----END RSA PRIVATE KEY-----
 aws-access-key-id: AKIAIH6YKUOPOCYOVS5Q
 aws-secret-access-key: 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
